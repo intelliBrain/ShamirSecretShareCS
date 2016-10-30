@@ -1,0 +1,36 @@
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\bin\Debug\Shamir.exe.config
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\bin\Debug\Shamir.exe
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\bin\Debug\Shamir.pdb
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.csprojResolveAssemblyReference.cache
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.Form1.resources
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.Properties.Resources.resources
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.csproj.GenerateResource.Cache
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.exe
+c:\users\crydes\documents\visual studio 2012\Projects\Shamir\Shamir\obj\Debug\Shamir.pdb
+G:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.exe.config
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.exe
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.pdb
+G:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.exe
+G:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.pdb
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.csprojResolveAssemblyReference.cache
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.Form1.resources
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.Properties.Resources.resources
+G:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.csproj.GenerateResource.Cache
+E:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.exe.config
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.exe
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.pdb
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.csprojResolveAssemblyReference.cache
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.Form1.resources
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.Properties.Resources.resources
+E:\inst\защита инф\Shamir\Shamir\obj\Debug\Shamir.csproj.GenerateResource.Cache
+E:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.exe
+E:\inst\защита инф\Shamir\Shamir\bin\Debug\Shamir.pdb
+C:\Github\ShamirSecretShare\Shamir\Shamir\bin\Debug\Shamir.exe.config
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.exe
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.pdb
+C:\Github\ShamirSecretShare\Shamir\Shamir\bin\Debug\Shamir.exe
+C:\Github\ShamirSecretShare\Shamir\Shamir\bin\Debug\Shamir.pdb
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.csprojResolveAssemblyReference.cache
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.Form1.resources
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.Properties.Resources.resources
+C:\Github\ShamirSecretShare\Shamir\Shamir\obj\Debug\Shamir.csproj.GenerateResource.Cache
